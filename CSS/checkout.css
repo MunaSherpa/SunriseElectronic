@@ -1,0 +1,81 @@
+/* style all body tags */
+body{
+    background-image: url(../Image/img5.png);
+    background-size: cover;
+}
+
+.checkout{
+    width: 700px;
+    height: 550px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 350px;
+    border-radius: 10px;
+    padding: 25px;
+    background: white;
+    font-family: sans-serif;
+}
+.checkout h4{
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size:x-large;
+}
+/* style all form tags */
+form{
+    text-align: justify;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+
+.form input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    color: black ;
+    border-bottom: 1px solid blue;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    letter-spacing: 1px;
+    margin-top:0;      
+}
+
+::placeholder{
+    color: black;
+}
+
+.btn {
+    margin-top: 50px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+    margin-left: 180px;
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+    font-weight:bolder;
+    font-size: medium;
+}
+
+input.checkbox{
+    width: 20px;
+}
+/* style div.check tags */
+div.check{
+    text-align: left;
+    margin-left: 100px;
+}
+
+label.checkbox{
+    font-weight: bold;
+    font-size: 14px;
+    top: 20px;
+}
+
+.check p{
+    margin-left: 0px;
+    padding-bottom: 0px;
+}

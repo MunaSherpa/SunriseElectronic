@@ -1,0 +1,56 @@
+/* style body tags */
+body{
+    background-image: url(../Image/3.jpg);
+    background-size: cover;
+}
+.form{
+    width:350px;
+    height:480px;
+    position:absolute;
+    margin-left:600px;
+    margin-top:150px;
+    background-color: skyblue;
+    border-radius: 10px;
+}
+.form h1{
+    margin-left:130px;
+}
+/* style form input tags */
+.form input{
+    width:240px;
+    height:35px;
+    background: white;
+    color:black;
+    border-bottom: 1px solid white;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.btn{
+    width:90px;
+    height:40px;
+    background: white;
+    border:none;
+    margin-top: 30px;
+    font-size:18px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-left:120px;
+}
+.signup{
+    color:black;
+    text-decoration: none;
+    background-color: white;
+    padding:3px;
+    border-radius: 8px;
+    font-size: small;
+    font-family: sans-serif;
+}
+
+.form p{
+    margin-left: 137px;
+}

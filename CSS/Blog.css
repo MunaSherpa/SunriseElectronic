@@ -1,0 +1,62 @@
+/* Style all body tages */
+body{
+    margin: 0px;
+    font-family: sans-serif;
+    background-image: url('../Image/1.jpg');
+    background-size: cover;
+}
+
+/* style all links tags */
+.links{
+    margin: 70px;
+    margin-left: 430px;
+    background-color: white;
+    margin-right: 375px;
+    height: 50px;
+    border-radius: 8px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-top: -40px;
+}
+
+/* style all links a tags */
+.links a{
+    color: black;
+    text-decoration: none;
+    padding-right: 45px;
+    
+}
+/* style all menu tags */
+.menu{
+    background-color:white;
+    padding-top: 3px;
+    padding-bottom: -3px;
+
+
+}
+
+.logo img{
+    margin-left: 90px;
+    margin-top: 25px;
+}
+
+a:hover{
+    color: green;
+}
+
+.technology h1{
+    margin-left: 400px;
+}
+
+.technology h4{
+    width:1000px;
+    margin-left: 200px;
+}
+
+.technology h2{
+    margin-left: 400px;
+}
+
+.technology img{
+    margin-left: 200px;
+}

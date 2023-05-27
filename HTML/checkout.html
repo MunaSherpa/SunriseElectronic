@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> <!--Document Header -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../CSS/checkout.css">
+    <script src="../JavaScript/checkout.js"></script>
+</head>
+<body>
+    <div class="checkout"> 
+        <h4> Check Out for your Order</h4> <!-- h4 is for heading -->
+        <table><!-- This is a table -->
+            <tr><!-- This is row of table -->
+                <th class="form">
+                        <form action="" onsubmit="checking()">
+                            <p>Full Name </p>
+                            <input type="fullname" name="fullname" placeholder="Enter your Fullname" id="fullname">
+                            <p> Billing Address </p>
+                            <input type="address" name="address" placeholder="Enter your Address" id="address">
+                            <p> Phone number</p>
+                            <input type="phonenumber" name="phonenumber" placeholder="Enter your  Phone Number" id="phonenumber">
+                            <P> Payment Method </P>
+                        <div class="check">
+
+                                <input class="checkbox" type="checkbox" name="Visa Card" value="visacard">Visa Card
+                                <input class="checkbox" type="checkbox" name="Khalti" value="esewa">Khalti
+                                <input class="checkbox" type="checkbox" name="esewa" value="esewa">Esewa
+                                <input class="checkbox" type="checkbox" name="cashondelivery" value="cashondelivery">Cash On Delivery
+                        </div>
+                            <button class="btn" type="submit">Confirm your order </button>
+                    </form>
+                </th>
+            </tr>
+        </table>
+    </div>
+
+</body>
+</html>

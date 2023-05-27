@@ -1,0 +1,115 @@
+body{
+    margin: 0px;
+    font-family: sans-serif;
+    background-image: url('../Image//1.jpg');
+    background-size: cover;
+}
+
+.links{
+    margin: 70px;
+    margin-left: 430px;
+    background-color: white;
+    margin-right: 375px;
+    height: 50px;
+    border-radius: 8px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-top: -40px;
+}
+
+/* style all the links tags */
+.links a{
+    color: black;
+    text-decoration: none;
+    padding-right: 45px;
+    
+}
+
+.menu{
+    background-color:white;
+    padding-top: 3px;
+    padding-bottom: -3px;
+
+
+}
+ 
+/* style all logo img tags */
+.logo img{
+    margin-left: 90px;
+    margin-top: 25px;
+}
+
+a:hover{
+    color: green;
+}
+
+.opporeno7 a{
+    background-color: black;
+    color:whitesmoke;
+    border-radius: 8px;
+    padding:5px;
+}
+.r1 img{
+    margin-left:40px;
+}
+.r2 img{
+    margin-left: 200px;
+}
+
+.r2 p{
+    margin-left: 200px;
+}
+.iphone12 a{
+    background-color: black;
+    color:whitesmoke;
+    border-radius: 8px;
+    padding:5px;
+}
+.r3 img{
+    margin-left: 170px;
+}
+.r3 p{
+    margin-left: 170px;
+}
+.redmi10c a{
+    background-color: black;
+    color:whitesmoke;
+    border-radius: 8px;
+    padding:5px;
+}
+.r4 img{
+    margin-top: 100px;;
+}
+.vivos15pro a{
+    background-color: black;
+    color:whitesmoke;
+    border-radius: 8px;
+    padding:5px;
+}
+.r5 img{
+    margin-left: 160px;
+    margin-top: 100px;
+}
+.r5 p{
+    margin-left: 170px;
+}
+.samsunggalaxys22ultra a{
+    background-color: black;
+    color:whitesmoke;
+    border-radius: 8px;
+    padding:5px;
+}
+.r6 img{
+    margin-top: 100px;
+    margin-left: 170px;
+    padding-right: 6px;
+}
+.r6 p{
+    margin-left: 170px;
+}
+.iphone13promax a{
+    background-color: black;
+    color:whitesmoke;
+    border-radius: 8px;
+    padding:5px
+}
